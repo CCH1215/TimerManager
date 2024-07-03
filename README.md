@@ -8,7 +8,7 @@ TimerManager provides a easy way to set, operate and remove timer.
 ## Set TimerManager
 Add TimerManager script as a component
 
-![](https://raw.githubusercontent.com/CCH1215/TimerManager/main/Assets/AddComponent.png)
+![](https://raw.githubusercontent.com/CCH1215/TimerManager/main/ReadMeImages/AddComponent.png)
 
 ## Example
 Add a custom timer.
@@ -28,7 +28,7 @@ TimerManager.Instance.SetTimerPause("TimerName", false);
 
 Preset Timer
 
-![](https://raw.githubusercontent.com/CCH1215/TimerManager/main/Assets/PresetTimer.png)
+![](https://raw.githubusercontent.com/CCH1215/TimerManager/main/ReadMeImages/PresetTimer.png)
 
 Add callback to preset(existing) timers
 ```c#
