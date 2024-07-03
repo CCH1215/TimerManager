@@ -734,11 +734,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74974ffa6f5b69f449d4732b4a013ac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _1SecText: {fileID: 0}
+  _1SecText: {fileID: 1565103951}
   _5SecText: {fileID: 135668245}
-  _customText: {fileID: 0}
-  _pauseBottonText: {fileID: 0}
-  _timeScaleBottonText: {fileID: 0}
+  _customText: {fileID: 967221647}
+  _pauseBottonText: {fileID: 1606447280}
+  _timeScaleBottonText: {fileID: 1052795597}
 --- !u!222 &282237551
 CanvasRenderer:
   m_ObjectHideFlags: 0
