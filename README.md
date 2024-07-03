@@ -2,7 +2,7 @@
 
 TimerManager provides a easy way to set, operate and remove timer.
 
-![](https://img.shields.io/badge/Unity-2018.2+-17b93.svg?style=flat&logo=unity)
+![](https://img.shields.io/badge/Unity-2021.3.4+-red.svg?style=flat&logo=unity)
 [![](https://img.shields.io/github/v/release/CCH1215/TimerManager
 )](https://github.com/CCH1215/TimerManager/releases/)
 [![](https://img.shields.io/github/license/CCH1215/TimerManager
