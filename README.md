@@ -2,7 +2,8 @@
 
 TimerManager provides a easy way to set, operate and remove timer.
 
-![Made with Unity](https://img.shields.io/badge/Made_with-Unity-red.svg?style=flat&logo=unity)
+![](https://img.shields.io/badge/Made_with-Unity-red.svg?style=flat&logo=unity)
+[![](https://img.shields.io/github/v/release/CCH1215/TimerManager)](https://github.com/CCH1215/TimerManager/releases/)
 
 ## Set TimerManager
 Add TimerManager script as a component
